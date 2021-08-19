@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @DanielCostaGH
-- 👀 I’m interested in  adquirir conhecimento da area de desenvolvimento.
-- 🌱 I’m currently learning  desenvolvimento web, tendomaior contato com HTML, CSS e Java Scri.pt
-
-- 💞️ I’m looking to collaborate on  projetos que possam me dar conhecimento das linguagens que eu estudo.
-- 📫 How to reach me:  pelo email; dfscs.costa@gmail.com
-
-
-<!---
-DanielCostaGH/DanielCostaGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ola! Meu nome é Daniel Costa. Seja bem vindo!
+Tenho 19 anos e curso Análise e Desenvolvimento de Sistemas na Una. 
+Cursei C# na Udemy, entretanto, ando me divertindo muito com as linguagens (HTML, CSS e JavaScript). 
+Ainda estou no caminho para aprender PHP e MySqL, sinto que a parte WEB me puxa mais, e eu gosto muito de front-end.
+Bom, venha me conhecer um pouco melhor visitando o meu portifólio! O link está no meu perfil.
