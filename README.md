@@ -11,6 +11,7 @@ Bom, venha me conhecer um pouco melhor visitando o meu portifólio! O link está
   <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCostaGH&layout=compact&langs_count=7&theme=dark"/>
     
   <div style="display: inline_block">
+  <img align="center" alt="Dan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
