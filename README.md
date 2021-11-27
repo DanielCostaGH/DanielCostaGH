@@ -8,7 +8,7 @@ Bom, venha me conhecer um pouco melhor visitando o meu portifólio! O link está
 <div>
   <a href="https://github.com/DanielCostaGH">
   <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=DanielCostaGH&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCosta&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCostaGH&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
   <div style="display: inline_block">
