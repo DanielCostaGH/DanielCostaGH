@@ -1,9 +1,8 @@
 <p> 
 Ola! Meu nome é Daniel Costa. Seja bem vindo! <br /> 
-Tenho 21 anos e curso Análise e Desenvolvimento de Sistemas na Una. <br />
-Estudo Tecnologias, principalmente, web, dentre elas estão: HTML, CSS, JS, React, Vite, Node.js e algumas demais.  <br />
-Tambem tenho uma certa experiência com MySqL e outros bancos. <br />
-Bom, o meu portifólio está disponível aqui mesmo no meu perfil, da uma olhada lá. </p>
+Tenho 21 anos e sou graduado em Análise e Desenvolvimento de Sistemas na Una. <br />
+Estudo Tecnologias, principalmente, web, dentre elas estão: PHP, Laravel, Node.js, Express, JavaScript, Vue.js, React.js, Tailwind e bancos de dados Mysql.  <br />
+</p>
 
 <div>
   <a href="https://github.com/DanielCostaGH">
